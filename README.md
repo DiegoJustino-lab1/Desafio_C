@@ -19,3 +19,14 @@ Este projeto é um exercício simples em linguagem C que solicita ao usuário do
 
    ```bash
    gcc teste.c -o desafio
+Execute o programa:
+
+./desafio
+
+🔧 Tecnologias Utilizadas
+Linguagem C
+
+Compilador GCC
+
+📄 Licença
+Este projeto está licenciado sob a MIT License.
